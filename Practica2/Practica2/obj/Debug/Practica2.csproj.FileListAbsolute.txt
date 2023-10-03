@@ -1,0 +1,10 @@
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\ed231\Documents\Unach\3 M\Programacion Avanzada\Practica2\Practica2\obj\Debug\Practica2.pdb
